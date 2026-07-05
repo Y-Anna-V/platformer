@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SilverCoin
+  - GoldenCoin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1677052971
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Level
+    uniqueID: 1502070981
+    locked: 0
+  - name: Creatures
+    uniqueID: 3058952561
+    locked: 0
+  - name: Grass
+    uniqueID: 2330078617
+    locked: 0
